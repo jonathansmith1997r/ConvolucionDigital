@@ -1,0 +1,22 @@
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\deconvolucion\deconvolucion\bin\Debug\deconvolucion.exe.config
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\deconvolucion\deconvolucion\bin\Debug\deconvolucion.exe
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\deconvolucion\deconvolucion\bin\Debug\deconvolucion.pdb
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\deconvolucion\deconvolucion\obj\Debug\deconvolucion.csproj.AssemblyReference.cache
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\deconvolucion\deconvolucion\obj\Debug\deconvolucion.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\deconvolucion\deconvolucion\obj\Debug\deconvolucion.Form1.resources
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\deconvolucion\deconvolucion\obj\Debug\deconvolucion.Properties.Resources.resources
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\deconvolucion\deconvolucion\obj\Debug\deconvolucion.csproj.GenerateResource.cache
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\deconvolucion\deconvolucion\obj\Debug\deconvolucion.csproj.CoreCompileInputs.cache
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\deconvolucion\deconvolucion\obj\Debug\deconvolucion.exe
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\deconvolucion\deconvolucion\obj\Debug\deconvolucion.pdb
+C:\Users\jonat\Desktop\esclavo\deconvolucion\deconvolucion\bin\Debug\deconvolucion.exe.config
+C:\Users\jonat\Desktop\esclavo\deconvolucion\deconvolucion\bin\Debug\deconvolucion.exe
+C:\Users\jonat\Desktop\esclavo\deconvolucion\deconvolucion\bin\Debug\deconvolucion.pdb
+C:\Users\jonat\Desktop\esclavo\deconvolucion\deconvolucion\obj\Debug\deconvolucion.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\esclavo\deconvolucion\deconvolucion\obj\Debug\deconvolucion.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonat\Desktop\esclavo\deconvolucion\deconvolucion\obj\Debug\deconvolucion.Form1.resources
+C:\Users\jonat\Desktop\esclavo\deconvolucion\deconvolucion\obj\Debug\deconvolucion.Properties.Resources.resources
+C:\Users\jonat\Desktop\esclavo\deconvolucion\deconvolucion\obj\Debug\deconvolucion.csproj.GenerateResource.cache
+C:\Users\jonat\Desktop\esclavo\deconvolucion\deconvolucion\obj\Debug\deconvolucion.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\esclavo\deconvolucion\deconvolucion\obj\Debug\deconvolucion.exe
+C:\Users\jonat\Desktop\esclavo\deconvolucion\deconvolucion\obj\Debug\deconvolucion.pdb

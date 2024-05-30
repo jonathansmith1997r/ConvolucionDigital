@@ -1,0 +1,44 @@
+C:\Users\RAULGGPC\source\repos\convolucion\convolucion\bin\Debug\convolucion.exe.config
+C:\Users\RAULGGPC\source\repos\convolucion\convolucion\bin\Debug\convolucion.exe
+C:\Users\RAULGGPC\source\repos\convolucion\convolucion\bin\Debug\convolucion.pdb
+C:\Users\RAULGGPC\source\repos\convolucion\convolucion\obj\Debug\convolucion.csproj.AssemblyReference.cache
+C:\Users\RAULGGPC\source\repos\convolucion\convolucion\obj\Debug\convolucion.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAULGGPC\source\repos\convolucion\convolucion\obj\Debug\convolucion.Form1.resources
+C:\Users\RAULGGPC\source\repos\convolucion\convolucion\obj\Debug\convolucion.Properties.Resources.resources
+C:\Users\RAULGGPC\source\repos\convolucion\convolucion\obj\Debug\convolucion.csproj.GenerateResource.cache
+C:\Users\RAULGGPC\source\repos\convolucion\convolucion\obj\Debug\convolucion.csproj.CoreCompileInputs.cache
+C:\Users\RAULGGPC\source\repos\convolucion\convolucion\obj\Debug\convolucion.exe
+C:\Users\RAULGGPC\source\repos\convolucion\convolucion\obj\Debug\convolucion.pdb
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\convolucion\convolucion\bin\Debug\convolucion.exe.config
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\convolucion\convolucion\bin\Debug\convolucion.exe
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\convolucion\convolucion\bin\Debug\convolucion.pdb
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\convolucion\convolucion\obj\Debug\convolucion.csproj.AssemblyReference.cache
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\convolucion\convolucion\obj\Debug\convolucion.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\convolucion\convolucion\obj\Debug\convolucion.Form1.resources
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\convolucion\convolucion\obj\Debug\convolucion.Properties.Resources.resources
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\convolucion\convolucion\obj\Debug\convolucion.csproj.GenerateResource.cache
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\convolucion\convolucion\obj\Debug\convolucion.csproj.CoreCompileInputs.cache
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\convolucion\convolucion\obj\Debug\convolucion.exe
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\convolucion\convolucion\obj\Debug\convolucion.pdb
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\maestro\convolucion\convolucion\bin\Debug\convolucion.exe.config
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\maestro\convolucion\convolucion\bin\Debug\convolucion.exe
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\maestro\convolucion\convolucion\bin\Debug\convolucion.pdb
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\maestro\convolucion\convolucion\obj\Debug\convolucion.csproj.AssemblyReference.cache
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\maestro\convolucion\convolucion\obj\Debug\convolucion.csproj.SuggestedBindingRedirects.cache
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\maestro\convolucion\convolucion\obj\Debug\convolucion.Form1.resources
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\maestro\convolucion\convolucion\obj\Debug\convolucion.Properties.Resources.resources
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\maestro\convolucion\convolucion\obj\Debug\convolucion.csproj.GenerateResource.cache
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\maestro\convolucion\convolucion\obj\Debug\convolucion.csproj.CoreCompileInputs.cache
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\maestro\convolucion\convolucion\obj\Debug\convolucion.exe
+D:\Documentos\Vida Académica\Semestre14-2021-2022-II\InterfacesComunicaciones\proyecto\maestro\convolucion\convolucion\obj\Debug\convolucion.pdb
+C:\Users\jonat\Desktop\bluetho\maestro\convolucion\convolucion\bin\Debug\convolucion.exe.config
+C:\Users\jonat\Desktop\bluetho\maestro\convolucion\convolucion\bin\Debug\convolucion.exe
+C:\Users\jonat\Desktop\bluetho\maestro\convolucion\convolucion\bin\Debug\convolucion.pdb
+C:\Users\jonat\Desktop\bluetho\maestro\convolucion\convolucion\obj\Debug\convolucion.csproj.AssemblyReference.cache
+C:\Users\jonat\Desktop\bluetho\maestro\convolucion\convolucion\obj\Debug\convolucion.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonat\Desktop\bluetho\maestro\convolucion\convolucion\obj\Debug\convolucion.Form1.resources
+C:\Users\jonat\Desktop\bluetho\maestro\convolucion\convolucion\obj\Debug\convolucion.Properties.Resources.resources
+C:\Users\jonat\Desktop\bluetho\maestro\convolucion\convolucion\obj\Debug\convolucion.csproj.GenerateResource.cache
+C:\Users\jonat\Desktop\bluetho\maestro\convolucion\convolucion\obj\Debug\convolucion.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\bluetho\maestro\convolucion\convolucion\obj\Debug\convolucion.exe
+C:\Users\jonat\Desktop\bluetho\maestro\convolucion\convolucion\obj\Debug\convolucion.pdb
